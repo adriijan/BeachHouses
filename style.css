@@ -65,6 +65,11 @@ header .logo {
 	letter-spacing: 0.2vw;
 }
 
+header .logo a {
+	text-decoration: none;
+	color: black;
+}
+
 header .logo #beach {
 	font-weight: 800;
 	letter-spacing: 0.4vw;
